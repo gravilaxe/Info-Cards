@@ -1,0 +1,5 @@
+Address Details|10|Downing Street||SW1A 2AA|Westminster|London|Great Britain|Prime Minister
+Credit Card|1234 5678 9123 4567 |01|20|01|25|Mr G Smith|121|Credit Card
+Address Details|UOD|University Of Derby|Kedleston Rd|DE22 1GB|Derbyshire|Derby|Derbyshire|Home
+Credit Card|1111 1111 1111 1111 |02|16|02|26|Mr John Smith|999|Debit Card
+Credit Card|1234 1234 1234 1234 |09|21|09|25|Mr J Smith|111|Credit Card
